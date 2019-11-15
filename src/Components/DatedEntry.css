@@ -1,0 +1,25 @@
+.datedEntry {
+	display: inline-block;
+}
+
+.datedEntryName {
+	float: left;
+	text-align: left;
+	clear: left;
+
+	width: 50%;
+
+	font-weight: bold;
+}
+
+.datedEntryDate {
+	float: right;
+	text-align: right;
+	clear: right;
+
+	width: 50%;
+}
+
+.datedEntryChildren {
+	width: 100%;
+}

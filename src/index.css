@@ -1,0 +1,13 @@
+* {
+	font-family: "Kulim Park", sans-serif;
+}
+
+body {
+	background-color: #dadfe1;
+	margin-top: -15px;
+}
+
+p {
+	font-size: 1.3em;
+	margin: 0;
+}

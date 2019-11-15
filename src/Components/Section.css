@@ -1,0 +1,11 @@
+h2 {
+	font-size: 2em;
+	font-family: "Tomorrow", sans-serif;
+
+	overflow: hidden;
+
+	border-bottom: 2px solid black;
+
+	margin-right: 5px;
+	margin-bottom: 5px;
+}

@@ -1,0 +1,15 @@
+.Education {
+	/* display: inline-block; */
+}
+
+.Education * {
+	overflow: hidden;
+}
+
+.Education > p {
+	clear: none;
+}
+
+.right {
+	text-align: right;
+}
