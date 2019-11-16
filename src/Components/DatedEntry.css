@@ -10,6 +10,7 @@
 	width: 50%;
 
 	font-weight: bold;
+	font-size: 1.5em;
 }
 
 .datedEntryDate {
@@ -18,6 +19,14 @@
 	clear: right;
 
 	width: 50%;
+}
+
+.datedEntrySubtitle {
+	float: left;
+	text-align: left;
+	clear: left;
+
+	width: 100%;
 }
 
 .datedEntryChildren {

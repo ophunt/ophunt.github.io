@@ -1,4 +1,4 @@
-h2 {
+.Section > h2 {
 	font-size: 2em;
 	font-family: "Tomorrow", sans-serif;
 
@@ -8,4 +8,8 @@ h2 {
 
 	margin-right: 5px;
 	margin-bottom: 5px;
+}
+
+.Section > * {
+	padding: 5px;
 }

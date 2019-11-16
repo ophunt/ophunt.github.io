@@ -9,6 +9,7 @@ function DatedEntry(props) {
 	    <div className={"DatedEntry" + additionalClassName}>
 			<p className="datedEntryName">{props.name}</p>
 			<p className="datedEntryDate">{props.date}</p>
+			<p className="datedEntrySubtitle">{props.subtitle}</p>
 			<div className="datedEntryChildren">
 				{props.children}
 			</div>

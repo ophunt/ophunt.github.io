@@ -8,9 +8,10 @@ import './Education.css';
 function Education() {
   return (
     <Section name="Education">
-		<DatedEntry name="University of Wisconsin–Madison" date="Sep 2018 - May 2022">
-			<p>Bachelor of Science in Computer Science and Mathematics</p>
-		</DatedEntry>
+		<DatedEntry
+			name="University of Wisconsin–Madison"
+			date="Sep 2018 - May 2022"
+			subtitle="Bachelor of Science in Computer Science and Mathematics – 4.0 GPA" />
     </Section>
   );
 }

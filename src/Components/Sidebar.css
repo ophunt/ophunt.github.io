@@ -2,7 +2,7 @@
 	right: 10px;
 	position: fixed;
 
-	width: 225px;
+	width: 20%;
 	height: calc(100% - 40px);
 
 	border: 2px solid black;
@@ -19,8 +19,10 @@
 }
 
 h1 {
-	font-size: 2.5em;
+	/* font-size: 2.5em; */
+	font-size: 4.5vw;
 	font-family: "Tomorrow", sans-serif;
+	text-align: center;
 
 	border-bottom: 1px solid black;
 
@@ -29,13 +31,13 @@ h1 {
 
 .social {
 	display: flex;
+	flex-flow: row wrap;
 	justify-content: space-evenly;
-
-	margin: 5px;
-	margin-top: 15px;
 }
 
 .social img {
 	width: 30px;
 	height: 30px;
+
+	margin: 15px;
 }
