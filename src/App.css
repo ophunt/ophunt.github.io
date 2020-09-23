@@ -1,3 +1,7 @@
+.App {
+	margin-top: 25px;
+}
+
 .Main {
 	margin-right: calc(20% + 35px);
 }

@@ -5,6 +5,7 @@ import Sidebar from "./Components/Sidebar";
 import About from "./Sections/About";
 import Education from "./Sections/Education";
 import Experience from "./Sections/Experience";
+import Projects from "./Sections/Projects";
 
 import './App.css';
 
@@ -16,6 +17,7 @@ function App() {
 			<About />
 			<Education />
 			<Experience />
+			<Projects />
 		</div>
     </div>
   );
